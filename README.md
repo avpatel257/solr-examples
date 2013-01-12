@@ -1,0 +1,4 @@
+solr-examples
+=============
+
+Solr examples
